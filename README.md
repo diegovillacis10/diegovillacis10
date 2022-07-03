@@ -6,8 +6,8 @@ Fullstack Web Engineer
 
 Passionate about building high performance teams and strong focus on results and desired outcomes and how to best achieve them. Committed to lifelong learning and personal development.
 
-* 🌍  I'm based in Ecuador
-* ✉️  You can contact me at [diegovillacis101@gmail.com](mailto:diegovillacis101@gmail.com)
+* 🌍  I'm based in Ecuador 🇪🇨 (Currently working remotely 🧑‍💻)
+* ✉️   You can contact me at [diegovillacis101@gmail.com](mailto:diegovillacis101@gmail.com)
 * 🚀  I'm currently working on [ThoughtWorks](http://www.thoughtworks.com/)
 
 ### Skills
