@@ -4,11 +4,11 @@ Hi 👋 My name is Diego Villacís
 Fullstack Web Engineer
 ----------------------
 
-Passionate about building high performance teams and strong focus on results and desired outcomes and how to best achieve them. Committed to lifelong learning and personal development.
-
-* 🌍  I'm based in Ecuador 🇪🇨 (Currently working remotely 🧑‍💻)
+* 🌍  I'm based in Ecuador 🇪🇨 Currently working remotely 🧑‍💻
 * ✉️   You can contact me at [diegovillacis101@gmail.com](mailto:diegovillacis101@gmail.com)
 * 🚀  I'm currently working on [ThoughtWorks](http://www.thoughtworks.com/)
+* 🤝  I'm open to collaborating on interesting projects as a front end engineer or related with Web3
+* ⚡  I enjoy playing Padel 🎾 and Call of Duty 🎮
 
 ### Skills
 
