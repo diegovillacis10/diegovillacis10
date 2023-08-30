@@ -6,7 +6,7 @@ Fullstack Web Engineer
 
 * 🌍  I'm based in Ecuador 🇪🇨 Currently working remotely 🧑‍💻
 * ✉️   You can contact me at [diegovillacis101@gmail.com](mailto:diegovillacis101@gmail.com)
-* 🚀  I'm currently working on [ThoughtWorks](http://www.thoughtworks.com/)
+* 🚀  I'm currently working on [Globant](https://www.globant.com/)
 * 🤝  I'm open to collaborating on interesting projects as a front end engineer or related with Web3
 * ⚡  I enjoy playing Padel 🎾 and Call of Duty 🎮
 
